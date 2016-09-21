@@ -1,0 +1,30 @@
+[
+  {
+    "BusNumber": "粤C17795",
+    "CurrentStation": "银星花园"
+  },
+  {
+    "BusNumber": "粤C17803",
+    "CurrentStation": "唐家市场"
+  },
+  {
+    "BusNumber": "粤C17835",
+    "CurrentStation": "金鼎总站"
+  },
+  {
+    "BusNumber": "粤C17839",
+    "CurrentStation": "金鼎"
+  },
+  {
+    "BusNumber": "粤C17860",
+    "CurrentStation": "翠花苑"
+  },
+  {
+    "BusNumber": "粤C17893",
+    "CurrentStation": "兴业中"
+  },
+  {
+    "BusNumber": "粤C17898",
+    "CurrentStation": "城市广场"
+  }
+]
